@@ -1,0 +1,29 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "guna-1",
+      "description": "AI Dashboard Interface",
+      "imageUrl": "https://picsum.photos/seed/guna1/800/600",
+      "imageHint": "ai dashboard"
+    },
+    {
+      "id": "guna-2",
+      "description": "Cloud Management System",
+      "imageUrl": "https://picsum.photos/seed/guna2/800/600",
+      "imageHint": "cloud tech"
+    },
+    {
+      "id": "guna-3",
+      "description": "Developer Networking Platform",
+      "imageUrl": "https://picsum.photos/seed/guna3/800/600",
+      "imageHint": "software network"
+    },
+    {
+      "id": "hero-bg",
+      "description": "Abstract Tech Background",
+      "imageUrl": "https://picsum.photos/seed/hero/1920/1080",
+      "imageHint": "tech background"
+    }
+  ]
+}
